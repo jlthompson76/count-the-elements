@@ -5,11 +5,12 @@ Using the attached HTML file, write a function called countHello that will count
 You can add it to the end of the attach hello.html file in a script tag.
 
 E.g. Given the html:
-
-`<ul>
+```
+<ul>
   <li>Hello</li>
   <li>Hello</li>
-</ul>`
+</ul>
+```
 `countHello(); // returns 2`
 
 
