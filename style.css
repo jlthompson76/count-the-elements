@@ -1,0 +1,10 @@
+.hello {
+    background-color: yellow;
+    font-weight: bold;
+    font-size: 125%;
+    border: 2px solid black;
+    border-radius: 5%;
+    width: 15%;
+    text-align: center;
+    padding: 5px 0;
+}
